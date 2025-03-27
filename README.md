@@ -1,2 +1,2 @@
 # tutorial-python
-Seguimos tutorial para aprender python desde cero
+Seguimos tutorial de Mouredev para aprender python desde cero
