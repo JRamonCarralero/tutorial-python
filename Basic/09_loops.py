@@ -39,10 +39,12 @@ else:
     print("salimos del bucle")
 
 for element in my_dict.values(): # recorre los valores del diccionario
-    print(element)
     if element == "Perez":
         print("El apellido es Perez")
-        break
+        break # rompe el bucle
+    if element == "Pedro":
+        continue # salta a la siguiente iteracion sin ejecutar el codigo que continua
+    print(element)
 
 
 # WHILE
